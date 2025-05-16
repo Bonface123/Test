@@ -1,0 +1,13 @@
+h1{
+    color: blue;
+    font-size: 2em;
+    text-align: center;
+    margin: 20px;
+
+}
+p{
+    color: green;
+    font-size: 1.2em;
+    text-align: justify;
+    margin: 20px;
+}
